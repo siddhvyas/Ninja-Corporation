@@ -1,0 +1,101 @@
+
+body{
+	background-image:url("grossglockner-mountain-road-alpine-pass-tunnel-1080x720.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+	
+nav{
+	margin:0;
+	}
+
+header{
+	margin: 0;
+	}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	display:inline-block;
+	}
+	
+footer{
+	height:100px;
+	width:100%;
+	margin-top:10px;
+	background-color:Black;
+}
+
+footer p{
+	color:white;
+}
+
+h1.company-name{
+	text-align:center;
+	color:MidnightBlue;
+	padding:10px;
+	background-color:Aqua;
+	margin: 0;
+	height:40px;
+	}
+	
+div.head-division{
+	margin:0;
+	background-color:Aqua;
+	width:100%;
+	height:5%;
+	}
+
+.head-division li{
+	display: inline-block;
+	}
+
+ul.head-division{
+	list-style-type:none;
+	background-color: #333;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #;
+	}
+
+div.green{
+	height:200px;
+	width:70%;
+	margin: 15px auto;
+	background-color:DarkSeaGreen;
+	padding: 10px;
+	}
+	
+div.sienna{
+	margin: 15px auto;
+	height:200px;
+	width:70%;
+	background-color:Sienna;
+	padding:10px;
+	}
+	
+div.brown{
+	margin: 15px auto;
+	height:200px;
+	width:70%;
+	background-color:SaddleBrown;
+	padding:10px;
+	}
+
+.maintained p{
+	margin: 0;
+	padding: 5px;
+	text-align:center;
+	font-family:Helvatica;
+	}
+	
+.followimg{
+	margin: 5px;
+	height: 25px;
+	width: 25px;
+	float:left;
+}
